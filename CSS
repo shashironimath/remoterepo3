@@ -4,6 +4,11 @@
 <title>My First Web Page</title>
 </head>
 <body>
+p {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+  }
 <h1>Hello, World!</h1>
 <p>This is my first paragraph in HTML.</p>
 </body>
